@@ -1,0 +1,22 @@
+run:
+
+
+Welcome! Press 1 to convert a zipcode to a barcode,  press 2 to convert a barcode to a zipcode or 3 to quit.
+1
+Please enter you're zip code: 
+33199
+The zipcode you entered is: 33199
+For this zip code the corresponding barcode is: |::||:::||::::|||:|::|:|::|
+
+
+Welcome! Press 1 to convert a zipcode to a barcode,  press 2 to convert a barcode to a zipcode or 3 to quit.
+2
+Please enter a barcode to turn into zip code
+|::||:::||::::|||:|::|:|::|
+The barcode you entered is: |::||:::||::::|||:|::|:|::|
+Based on the barcode you entered, the zipcode is: 33199
+
+
+Welcome! Press 1 to convert a zipcode to a barcode,  press 2 to convert a barcode to a zipcode or 3 to quit.
+3
+BUILD SUCCESSFUL (total time: 17 seconds)
